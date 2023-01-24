@@ -1,0 +1,302 @@
+EN,type1,type2,type3,type4,type5,type6,type7,type8,type9,type10,sameas1,sameas2,sameas3,sameas4,sameas5
+Additive Manufacturing,Additive Manufacturing,,,,,,,,,,nan,nan,nan,nan,nan
+Artificial Intelligence,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Algorithm,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Augmented Reality,,Augmented Reality,,,,,,,,,nan,nan,nan,nan,nan
+Automation,Additive Manufacturing,,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,,,,nan,nan,nan,nan,nan
+Neural Network,,,Autonomous Robots,Big Data,Cloud Computing,,,,Simulation,,nan,nan,nan,nan,nan
+Blockchain,,,Autonomous Robots,Big Data,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Cloud Computing,,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Embedded System,,Augmented Reality,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Cyber-Physical Production System,,,,,,Cyber Physical System,,,,,CPSS,nan,nan,nan,nan
+Digital Supply Chain,,,,,Cloud Computing,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Enterprise Resource Planning,,,,,,Cyber Physical System,,,,,ERP,nan,nan,nan,nan
+Fog Computing,,,,,Cloud Computing,,,Internet of Things,,,nan,nan,nan,nan,nan
+Graphical User Interface,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Human-Machine Interface,Additive Manufacturing,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Internet of Things,,,,,,,,Internet of Things,,,Connected Enterprise,nan,nan,nan,nan
+Interoperability,,,Autonomous Robots,,Cloud Computing,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Lights-Out Environment,,,,,Cloud Computing,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+M2M,,,Autonomous Robots,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Open Data,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Overall Equipment Effectiveness,,,,,,Cyber Physical System,,,,,OEE,nan,nan,nan,nan
+Platform,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Predective Maintenance,,,,,,Cyber Physical System,,,,,Predictive Analytics,nan,nan,nan,nan
+Radio Frequency Identification,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Smart Contract,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Smart Factory,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Smart Manufacturing,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Supervisory Control and Data Acquisition,,,,,,Cyber Physical System,,Internet of Things,,,SCADA,nan,nan,nan,nan
+Virtual Reality,,Augmented Reality,,,,,,,Simulation,,nan,nan,nan,nan,nan
+Advance Manufacturing,Additive Manufacturing,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Building Information Modelling,,,,,,Cyber Physical System,,,,,BIM,nan,nan,nan,nan
+Circular Economy,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Data Literacy,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Design thinking,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Digital literacy,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Digital disruption,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Digitalisation,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Fragmentation,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Industrial Internet of Things,,,,,,Cyber Physical System,,,Simulation,,Fourth Industrial Revolution,nan,nan,nan,nan
+Industry 4.0,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,Industrie 4.0,nan,nan,nan,nan
+Lean manufacturing,,,,,,Cyber Physical System,,,,,Lean Production,nan,nan,nan,nan
+Machine learning,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Micro-credentials,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Operational Technology,,,,Big Data,,Cyber Physical System,,,Simulation,,nan,nan,nan,nan,nan
+Platform economy,,,,Big Data,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Pull economy,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Search Engine Optimisation,,Augmented Reality,,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,,,,nan,nan,nan,nan,nan
+Servitisation,,,,,,,,,,,nan,nan,nan,nan,nan
+Shared economy,,,Autonomous Robots,,,Cyber Physical System,,,,,Collaborative Consumption,nan,nan,nan,nan
+Smart cities,,,,,,,,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Smart grids,,,,,,,,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+3D Simulation,,,,,,,,,Simulation,,nan,nan,nan,nan,nan
+Cyber-Resilience,,,,Big Data,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Data Science,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Deep Learning,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Edge Computing,,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Industrial Software,,,,,,Cyber Physical System,,Internet of Things,,,MES,nan,nan,nan,nan
+Manufacturing Execution System,,,,,,Cyber Physical System,,,,,OSI,nan,nan,nan,nan
+Open Interconnected Systems,,,,,,Cyber Physical System,Internet of Service,Internet of Things,,,Open Systems Interconnection Model,OSI Model,nan,nan,nan
+Production Analystics,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Reference Architecture Model Industry 4.0,,,,,,Cyber Physical System,,,,,RAMI 4.0,nan,nan,nan,nan
+Software as a Service,,,,,,,Internet of Service,,,,SAAS,nan,nan,nan,nan
+Computer Graphics,Additive Manufacturing,Augmented Reality,,,,,,,Simulation,,CG,nan,nan,nan,nan
+Bit,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Byte,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Business Intelligence,,,,Big Data,,,,,,,BI,nan,nan,nan,nan
+Customer Journey Tracking,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Cyber-Physical System,,,,,,Cyber Physical System,,,,,CPS,nan,nan,nan,nan
+Horizontal Integration,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Plug and Work,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,Plug and Play,nan,nan,nan,nan
+Vertical Integration,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Automated Storage and retrieval System,,,,,Cloud Computing,Cyber Physical System,,,,,ASRS,AS/RS,nan,nan,nan
+Computer-Aided Design,Additive Manufacturing,Augmented Reality,,,,,,,Simulation,,CAD,nan,nan,nan,nan
+Computer-Aided Manufacturing,,,,,,Cyber Physical System,,,,,CAM,nan,nan,nan,nan
+Computer-Integrated Manufacturing,Additive Manufacturing,Augmented Reality,Autonomous Robots,,,Cyber Physical System,,,Simulation,,CIM,nan,nan,nan,nan
+Computer Numerical Control,,,,,,,,,,,CNC,nan,nan,nan,nan
+Collaborative Robot,,,Autonomous Robots,,,,,,Simulation,,Cobot,nan,nan,nan,nan
+Cross-Training,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Digital Twin,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Flexible Manufacturing System,,,,,,Cyber Physical System,,,,,FMS,nan,nan,nan,nan
+Just-in-Time,,,,,,Cyber Physical System,,,,,JIT, Continuous-Flow Production,nan,nan,nan
+Low-Power Wide-Area Network,,,,,,Cyber Physical System,,Internet of Things,,,LP-WAN,LPWA,nan,nan,nan
+MQ Telemetry Transport,,,,,,Cyber Physical System,,Internet of Things,,,MQTT,nan,nan,nan,nan
+OPC Unified Architecture,,,Autonomous Robots,,,Cyber Physical System,,,,,OPC UA,nan,nan,nan,nan
+Wireless Sensor Networks,,,,,,,,Internet of Things,,,WSN,nan,nan,nan,nan
+Cybersecurity,,,,Big Data,,Cyber Physical System,Internet of Service,,,,nan,nan,nan,nan,nan
+Digital Transformation Strategy,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Supply Chain,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Digitization,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Mixed-Modal Production,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Risk-Based Planning & Schedulling,,,,,,Cyber Physical System,,,,,RPS,nan,nan,nan,nan
+SMAC,,,,Big Data,,Cyber Physical System,,Internet of Things,,,Third Platform,nan,nan,nan,nan
+Data Ownership,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Decentralized Intelligence,,,,,,,,,,,nan,nan,nan,nan,nan
+Flexibility,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Human-Robot Collaboration,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Advance Encrption Standard,,,,,Cloud Computing,,,,,,AES,nan,nan,nan,nan
+Application Programming Interface,,,Autonomous Robots,,,,,Internet of Things,,,API,nan,nan,nan,nan
+Backhaul,,,,,,Cyber Physical System,,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Bluetooth Low Energy,,,,,,,,Internet of Things,,,BLE,Bluetooh 4.0,BTLE,nan,nan
+Embedded Software,,,,,Cloud Computing,,Internet of Service,,,,nan,nan,nan,nan,nan
+Firmware Over-the-Air,,,,,Cloud Computing,,Internet of Service,,,,FOTA,nan,nan,nan,nan
+Gateway,,,,,,,,,Simulation,,nan,nan,nan,nan,nan
+General Packet Radio Service,,,,,,,,,,Other,GPRS,nan,nan,nan,nan
+Industrial Scientific and Medical Band,,,,,,,,Internet of Things,,,ISM,nan,nan,nan,nan
+Link Budget,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Low-Power Wireless Sensor Network,,,,,,,,,,Other,nan,nan,nan,nan,nan
+LoRa Protocol,,,,,,,,,,Other,LoRaWAN,nan,nan,nan,nan
+Media Access Control,,,,,,,,,,Other,MAC,nan,nan,nan,nan
+Mote,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Near-Field Communication,,,,,,,,,,Other,NFC,nan,nan,nan,nan
+Quality of Service,Additive Manufacturing,,,,,Cyber Physical System,,,,,QoS,nan,nan,nan,nan
+Radiofrequency,,,Autonomous Robots,,,,,Internet of Things,,,RF,nan,nan,nan,nan
+RF Geolocation,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Repeater,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Smart Meter,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Software-Defined Network,,,,,,,,,,Other,SDN,nan,nan,nan,nan
+Structure Attenuation,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Transmission Control Protocol/Internet Protocol,,,,,,,,,,Other,TCP/IP,nan,nan,nan,nan
+Ultra-Wide Band,,,,,,,,,,Other,UWB,nan,nan,nan,nan
+ZigBee,,,,,,,,,,Other,Z-Wave,nan,nan,nan,nan
+IoT Cloud Platform,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Mobile IoT,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+IoT Protocol,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Global Navigation Satellite System,,,,,,,,Internet of Things,,,GNSS,nan,nan,nan,nan
+Narrowband IoT,,,,,,,,Internet of Things,,,NB-IoT,nan,nan,nan,nan
+Mesh Network,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Telematics,,,,,,,,,,Other,nan,nan,nan,nan,nan
+6LoWPAN,,,,,,,,,,Other,Low Power Wireless Network,nan,nan,nan,nan
+Beacon Technology,,,,,,,,,,Other,nan,nan,nan,nan,nan
+LTE-M,,,Autonomous Robots,,,,,,,Other,nan,nan,nan,nan,nan
+Sensor Network,,,,,,,,Internet of Things,,,Sensor,nan,nan,nan,nan
+Wearable,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Actuator,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Advanced Message Queuing Protocol,,,Autonomous Robots,,,Cyber Physical System,,,,,AQMP,nan,nan,nan,nan
+Application Agents,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Chirp,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Competing Consumers,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Connected Device,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,Connected Product,nan,nan,nan,nan
+Connectivity Protection,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Constrained Application Protocol,,,,,,,,Internet of Things,,,CoAP,nan,nan,nan,nan
+Data Filtration,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Device-Agnostic Control,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Direct Messaging,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Edge Gateway,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Edge Layer,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Embedded Device,,,,,,Cyber Physical System,,Internet of Things,,,Embedded Systems,nan,nan,nan,nan
+Endpoint Device,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Flow-Based Programming,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Geofencing,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Haze Computing,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Home Automation,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Industrial Internet,,,,,,,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Integrator,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+IoT Development Board,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Lightweight Protocol,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Long Range Communication Protocols,,,Autonomous Robots,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Low-Power Device,,,Autonomous Robots,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Microcontroller,,,Autonomous Robots,,,,,,,,MCU,nan,nan,nan,nan
+Messaging Protocol,,,,,Cloud Computing,,,Internet of Things,,,nan,nan,nan,nan,nan
+Message Queuing Telemetry Transport,,,,,,,,Internet of Things,,,MQTT,nan,nan,nan,nan
+Multi-Agent System,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Operability,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Personal Area Network,,,,,,,,,,Other,PAN,nan,nan,nan,nan
+Propagator,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Real-Time Operating System,,,,,,Cyber Physical System,,,,,RTOS,nan,nan,nan,nan
+Releasability,,,,,,,Internet of Service,,,,nan,nan,nan,nan,nan
+Single-Board Computer,,,Autonomous Robots,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Site-Level Management,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Store and Forward,,,,,,,,,,Other,nan,nan,nan,nan,nan
+System on a Chip,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Ubiquitous Computing,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Wireless Local Area Network,,,,,,,,,,Other,WLAN,Wi-Fi,nan,nan,nan
+Cat M1,,,,,,,,,,Other,Cat M1,nan,nan,nan,nan
+Cellular IoT,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+PCS Type Cerification Review Board,,,,,,,,Internet of Things,,,PTCRB,nan,nan,nan,nan
+SigFox,,,,,,,,,,Other,nan,nan,nan,nan,nan
+5G,,,,,,,,,,Other,nan,nan,nan,nan,nan
+AIoT,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Anamoly Detection,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Condition Monitoring,,,,Big Data,,Cyber Physical System,,,,,CM,nan,nan,nan,nan
+Connectivity,,,,,,Cyber Physical System,,Internet of Things,,,Internet Connectivity,nan,nan,nan,nan
+Dashboard,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Data-Driven Decision Management,,,,Big Data,,,,,,,DDDM,nan,nan,nan,nan
+Dead Zone,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Downtime,,Augmented Reality,,,,Cyber Physical System,,,Simulation,,nan,nan,nan,nan,nan
+Edge Device,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Environmental Monitoring,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Equipment Monitoring,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Fleet Management,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Hardware Agnostic,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Internet of Medical Things,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Modbus,,,Autonomous Robots,,Cloud Computing,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Preventive Maintenance,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Redundancy,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Remote Monitoring and Control,,,,,,Cyber Physical System,,,Simulation,,M&C,nan,nan,nan,nan
+Return on Investment,,,,Big Data,,,,,,,ROI,nan,nan,nan,nan
+Role-Based Access Control,,,,,,Cyber Physical System,,,,,RBAC,nan,nan,nan,nan
+Sustainable Development Goal,,,,,,,,,,,SDG,nan,nan,nan,nan
+Software Development Kit,,,Autonomous Robots,,,,Internet of Service,,,,SDK,nan,nan,nan,nan
+Skills gap,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Sub-GHz,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Upskilling,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Advance Message Queueing Protocol,,,,,Cloud Computing,,,Internet of Things,,,nan,nan,nan,nan,nan
+Allocation Policy,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Attestation Mechanism,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Automatic Deployment,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Automatic Device Configuration,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Automatic Device Management,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Back-End App,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Built-in Endpoints,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Cloud Gateway,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Cloud Property,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Cloud-to-Device,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+3G,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+4G,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Address of Device,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Architecture,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Address Resolution Protocol,,,,Big Data,,Cyber Physical System,,,,,ARP,nan,nan,nan,nan
+Brownfield,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Business Logic,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Cloud,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Cloud Communication,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Controller,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Credential,,,,Big Data,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Data Centre,,,,Big Data,,,,,,,Data Center,nan,nan,nan,nan
+Device,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Hardware,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Device Discovery,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Domain Model,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Ecosystem in IoT,,,,,,,Internet of Service,,,,nan,nan,nan,nan,nan
+Edge of IoT,,,,,,,Internet of Service,,,,nan,nan,nan,nan,nan
+eDiscovery,,,,,,,,,,,nan,nan,nan,nan,nan
+Electronically Stored Information,,,,Big Data,,,,,,,ESI,nan,nan,nan,nan
+Embedded Computing,,,,,Cloud Computing,,,,,,Embedded Systems,nan,nan,nan,nan
+Energy-Harvesting Technologies,,,,,,Cyber Physical System,,,,,Power Harvesting,nan,nan,nan,nan
+Geotagging,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Global Storage,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Global System for Mobile Communications,,,,,,,Internet of Service,Internet of Things,,,GMS,nan,nan,nan,nan
+Short Message Service,,,,,,,,,,Other,SMS,nan,nan,nan,nan
+Haystack,,,,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Host,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Hybrid Cloud,,,,,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Infrastructure as a Service,,,,,,,Internet of Service,,,,IAAS,nan,nan,nan,nan
+Identity,,,,Big Data,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Internet of Everything,,,,,,,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Local Storage,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Location Technologies,,,,,,Cyber Physical System,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Low-Power Radio Network,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Long Term Evolution,,,,,,,,Internet of Things,,,LTE,nan,nan,nan,nan
+Machine Learning Algorithm,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Body Area Network,,,,,,,,,,Other,BAN,WBAN,Wireless Body Area Network,Body Sensor Network,nan
+Observer,,,,,,,,,,,nan,nan,nan,nan,nan
+Open API,,Augmented Reality,Autonomous Robots,,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Open Source,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Persavise Computing,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,Ubiquitous Computing,nan,nan,nan,nan
+Pervasive Sensing,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Platform as a Service,,,,,,,Internet of Service,Internet of Things,,,PAAS,nan,nan,nan,nan
+Power over Ethernet,,,,,,,,,,Other,PoE,nan,nan,nan,nan
+Representational State Transfer,,,,,,,,,,Other,REST,nan,nan,nan,nan
+HyperText Transfer Protocol,,,,,,,,,,Other,HTTP,nan,nan,nan,nan
+Single Sign-On,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Tag,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Unconstrained Network,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Virtual Entity,,,,Big Data,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Wearable Technology,,,,,,,,Internet of Things,,,Wearable Tech,nan,nan,nan,nan
+Wireless Communication Technology,,,,,,Cyber Physical System,,Internet of Things,,,nan,nan,nan,nan,nan
+Wireless Sensors and Actuators Network,,,Autonomous Robots,,,Cyber Physical System,,Internet of Things,,,WSAN,nan,nan,nan,nan
+6LoWPAN header compression,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Active Digital Entity,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Ambient Assisted Living,,,,,,,,Internet of Things,,,AAL,nan,nan,nan,nan
+Alljoyn,,,,,,,,,,Other,nan,nan,nan,nan,nan
+Ambient Intelligence,,,Autonomous Robots,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Application Software,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Architecture Vision,,Augmented Reality,Autonomous Robots,,,Cyber Physical System,,,Simulation,,nan,nan,nan,nan,nan
+Arduino,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Augmented Entity,,Augmented Reality,,,,,,,,,Digital Twin,nan,nan,nan,nan
+AutoID and Mobility Technology,,,,Big Data,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Base Transceiver Station,,,,,,Cyber Physical System,,Internet of Things,,,BTS,nan,nan,nan,nan
+Cloud Orchestration,,,,,Cloud Computing,,,,,,nan,nan,nan,nan,nan
+Cooperating Objects,,,,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Digital Data Storage,,,,,Cloud Computing,,,,,,DDS,nan,nan,nan,nan
+Domotics,,,Autonomous Robots,,,,,Internet of Things,,,nan,nan,nan,nan,nan
+Digital Signal Processing,,,Autonomous Robots,,,,,,,,DSP,nan,nan,nan,nan
+European Article Number,Additive Manufacturing,,,,,Cyber Physical System,,,,,EAN,nan,nan,nan,nan
+Enhanced Data Rates for GSM Evolution,,,,,,,,,,Other,nan,nan,nan,nan,nan
+E-Health,,,,,,,,,,Other,nan,nan,nan,nan,nan
+External Machine Interface,,,Autonomous Robots,,,Cyber Physical System,,,,,nan,nan,nan,nan,nan
+Universal Computer Protocol,,,,,,,,,,,UCP,nan,nan,nan,nan
+Electronic Product Code Information Services,,,,,,,,,,Other,EPCIS,nan,nan,nan,nan
+Electrostatic Discharge,,,,,,,,,,Other,ESD,nan,nan,nan,nan
+Geographic Information System,,,,,,,,,,Other,GIS,nan,nan,nan,nan
+Haptic Technology,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Identifier,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Initial Graphics Exchange Specification,Additive Manufacturing,,,,,,,,,,IGES,nan,nan,nan,nan
+Internet Group Management Protocol,,,,,,,,,,Other,IGMP,nan,nan,nan,nan
+Information Model,,,,Big Data,,,Internet of Service,Internet of Things,,,nan,nan,nan,nan,nan
+Interface,Additive Manufacturing,Augmented Reality,Autonomous Robots,Big Data,Cloud Computing,Cyber Physical System,Internet of Service,Internet of Things,Simulation,,nan,nan,nan,nan,nan
+Autonomous Robots,,,Autonomous Robots,,,,,,,,nan,nan,nan,nan,nan
+Big Data,,,,Big Data,,,,,,,nan,nan,nan,nan,nan
+Cloud Robotic,,,Autonomous Robots,,Cloud Computing,,,Internet of Things,,,nan,nan,nan,nan,nan
