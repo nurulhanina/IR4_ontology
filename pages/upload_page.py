@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from PyPDF2 import *
-import regex as rg
 
 st.header("Upload Page")
 text_raw="Test"
@@ -64,7 +63,7 @@ with st.expander("Uploading PDF File"):
         
 st.markdown("The Keywords Extracted")
 
-    
+
         
         
         
