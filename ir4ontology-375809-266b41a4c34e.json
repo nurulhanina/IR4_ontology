@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ir4ontology-375809",
+  "private_key_id": "266b41a4c34e21bff46b3b4aa7e491307a3f6097",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiWJEwyb5eY9f6\nKGUBCJmJMHgZ9FNBMJnMO1pL8+PoqucjG7SclGkqrvTBM1sQVvhb8G1oi3gExMnz\nkjZjKP0AYwt50wNzuOpmNSw1nNUet2NFpJovh7qQ+Xm9y7roC/baDq3ABb6PqNwH\nZq9u3O+BuOMHVNBQrT/dOmajNGJmlxz/Eqt1RDo9wA3dmQ3qT5Ij87shOFGX1M4f\nDZKx21dOcNsZDeXC5Ue0/QcPtQZ35RbfIwrTIYb0TU+YadAwerwK/zSPFZYrn0FC\nDvewquiasAYHD35wSvGII9/kMYQFViHuhotOOKFee2/fADsvfscCD0FhNr/OgT9i\njEt+UplpAgMBAAECggEABKzOv4wruH2hEFHd+L3l5/q2lq6/wAKVhzlVVBcZos9b\nGRp45MJsVd+UakTflDSg8crWZ7qOcfq1wxccjFX3lS2E/NTcBlbWnytcUs3poDkR\nOYXwL7q1n2ujuxi1EO4ZRXXDQKKZtnrbHTZyilt/5SktFn61ggE/M9B0+LGvPLuF\nBs9Ngy8fwxsKUBqVqQDPZQ+X0dom5oYQAf5BIqEnndBdWq3dMav2BuFU9itn/ujy\ngXM9OxumjgnHmYIEpd4ayKOYBbumYoVjVEvM5KJvILlKWaEIbZ/9OKtoj6hYo8Dp\nicrkBqJVrX7UqPGxPPA4qWCCFaIwd7AFiNgIVt7GAQKBgQDXLMSb/FK8IT/ksxTP\nwrDRi71LPThE9MMQ4KBKh6Fxzf8EOGyg9Z6Xn3mJzTWPtEheS+tFQ0M2PAolOTz7\nh1wwYxXHCqt4HxqMGvrZsLwP5EfiA2fGQScvYDrbUeNqZP6zKAtnPGw8EkoJCeOl\nv00c8mDYdFuIdWmn/XT9iYBbAQKBgQDBJdpPS9J4fBc/sqcAHkO2ik9661zmQkpE\nEcwdnxSpcr80BvReq/QnTjMJwYyiGCl3YGsw+zcbsKeX74WF1MwekAVICMhgShCu\njH26CWJH0eubSvzL3Y8k2f9M7iaWIwfNXIQvoUxNcmBh4MNwWt53FBnHnyCWAzHx\n0mna1stGaQKBgEtQjSS4BdF5pd6L3B34XGGMEt6x9+8S6PAQX6qWnKiz3K4Cfes8\n7ZzOogDcxgGdrbLryda9e1oRW8+5oCG+OENreyTnFCuAX49opiLqHHlHgu2WGY2o\nImoPuaoomHwWC5xzyMICwTOphyZwwrCyK/CU2dcJqzwxNKErMvbHWRkBAoGBAKl0\nplYPtbZTWKpf+TiXVN0f959mQ3kZC8Mwwh3y5dPMgogI2fj9cBXT+99BWjsUa7z6\ncNDmdnDqyf74+/JwwizGOnv6iKJCGOSrCdtgREOynrz+S1ApMF8qi1xZTK1ISp4X\n3zlSkHkaMgltgspeTvO2RO/oYlR6tSTucES5UlqRAoGBAKnFD22Y4DbKAq3ubAvH\nrtnYSKoPWe3mFx7TLEv5NMNSg6WrlAruNnVt1l5SqsJ9AUQ+3PG1winI+Q2G2q1b\nrSW6Z+hacq6RuwqTVua3MPu2opvzhAxo38M/hjDpN7661hwc7eFlLfd4ni/1X3vB\nqn3iWR0MkLR/QPCnKRXTfcZ4\n-----END PRIVATE KEY-----\n",
+  "client_email": "irontology@ir4ontology-375809.iam.gserviceaccount.com",
+  "client_id": "109378718410247282902",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/irontology%40ir4ontology-375809.iam.gserviceaccount.com"
+}
