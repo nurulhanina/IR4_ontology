@@ -15,7 +15,7 @@ st.write("\nDo give your feedback :)")
 #if st.button("Feedback"):
 #    webbrowser.open("https://forms.gle/gx4zfkXVRBXCw9M87")
 
-link = '[GitHub](http://github.com)'
+link = '[FORM](https://forms.gle/gx4zfkXVRBXCw9M87)'
 st.markdown(link, unsafe_allow_html=True)
 
 st.write("\nHere are some helpful tips")
