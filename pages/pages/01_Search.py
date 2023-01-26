@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+#UI Stuff
 st.markdown("Search Query")
 
 st.title("Sistem Istilah Dwibahasa")
@@ -32,17 +33,15 @@ type7=list(df1['type8'])
 type8=list(df1['type9'])
 type9=list(df1['type10'])
 sameas0=list(df1['sameas1'])
-sameas1=list(df1['sameas1'])
-sameas2=list(df1['sameas1'])
-sameas3=list(df1['sameas1'])
-sameas4=list(df1['sameas1'])
-             
-#functions
+sameas1=list(df1['sameas2'])
+sameas2=list(df1['sameas3'])
+sameas3=list(df1['sameas4'])
+sameas4=list(df1['sameas5'])
+
+#FUNCTION DECLARATION
 def printtext(text_w):
     st.text(text_w)
-
-word_search=st.text_input("Enter Text")
-
+    
 def printwhole():
     st.subheader("English Text")
     st.text(word_search)
@@ -77,9 +76,9 @@ def printwhole():
     printtext(str(type8[count-1]))
     printtext(str(type9[count-1]))
     
-    
+#Main Interface
+word_search=st.text_input("Enter Text")
 if word_search:
-    
     count=0
     for i in eng_word:
         count+=1
@@ -90,9 +89,3 @@ if word_search:
             printtext("Word Not Found")
             break
             
-            
-    
-    
-    
-    
-
