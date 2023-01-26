@@ -12,9 +12,6 @@ st.write("Do Hover to the Left Navigation Pane to use the Application")
 
 st.write("\nDo give your feedback :)")
 
-#if st.button("Feedback"):
-#    webbrowser.open("https://forms.gle/gx4zfkXVRBXCw9M87")
-
 link = '[FORM](https://forms.gle/gx4zfkXVRBXCw9M87)'
 st.markdown(link, unsafe_allow_html=True)
 
