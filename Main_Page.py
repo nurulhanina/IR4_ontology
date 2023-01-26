@@ -1,8 +1,11 @@
 import streamlit as st
-from PIL import Image
 
 st.title("SISTEM ISTILAH DWIBAHASA")
 urlimage="https://raw.githubusercontent.com/nurulhanina/IR4_ontology/main/Resources/Header.png"
-#image=Image.open(urlimage)
-st.image(urlimage)
+url="Resources/Header.png"
+st.image(url)
+text_caption="Hello and Good Day. This is Nurul Hanina's Final Year Project\nheheeh"
+st.caption(text_caption)
+
+
 
