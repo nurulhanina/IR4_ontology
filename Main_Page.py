@@ -10,6 +10,13 @@ st.caption("Hello and Good Day. This is Nurul Hanina's Final Year Project. \nThi
 
 st.write("Do Hover to the Left Navigation Pane to use the Application")
 
+st.write("\nDo give your feedback :)")
+
+feedback=st.button("Feedback")
+
+if feedback:
+    webbrowser.open("https://forms.gle/gx4zfkXVRBXCw9M87")
+
 st.write("\nHere are some helpful tips")
 
 with st.expander("Search Page"):
@@ -21,10 +28,6 @@ with st.expander("Upload Page"):
 with st.expander("Glossary Page"):
     st.caption("This page displays all the terminologies that are within the knowledge base.")
     
-if st.button("Feedback"):
-    webbrowser.open("https://forms.gle/gx4zfkXVRBXCw9M87")
-
-  
 #TODO - Add more explanation to each of the expanders
 
 
